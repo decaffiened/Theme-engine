@@ -101,7 +101,7 @@ Six visualizer styles to choose from:
 - Visual C++ Redistributable 2022 x64 — [download here](https://aka.ms/vs/17/release/vc_redist.x64.exe) (most PCs already have it)
 - That's it — `ThemeEngine.exe` is fully self-contained
 
-### To run from source (`wallpaper_engine2.py`)
+### To run from source (`Theme_engine2.py`)
 - Python 3.10+ (64-bit)
 - `libmpv-2.dll` placed in the same folder as the script (only needed when running from source — already bundled in the exe)
 - Python packages (auto-installed on first run):
